@@ -1,0 +1,12 @@
+
+
+Result =  500
+
+Result =  5000
+
+Result =  7500
+
+Result =  2000
+
+Result =  1000
+
